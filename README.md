@@ -6,11 +6,6 @@
 
 ###
 
-<h2 align="left">💫 About me:</h2>
-
-###
-
-<p align="left">🌱 I’m currently learning:<br>Front End Development</p>
 
 ###
 

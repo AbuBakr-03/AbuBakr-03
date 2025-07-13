@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">🎓 <br> Computer Science graduate with a strong foundation in full-stack.<br><br>💻 <br> Experienced in modern tech stacks like React, Django and PostgreSQL, with hands-on internship experience across fintech and tech startups.<br><br>🚀 <br> Passionate about building innovative, user-focused software to solve real-world problems.</p>
+<p align="left">🎓 Computer Science graduate with a strong foundation in full-stack.<br><br>💻 Experienced in modern tech stacks like React, Django and PostgreSQL, with hands-on internship experience across fintech and tech startups.<br><br>🚀 Passionate about building innovative, user-focused software to solve real-world problems.</p>
 
 ###
 

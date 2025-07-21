@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=AbuBakr-03&locale=en&mode=daily&theme=dark" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AbuBakr-03&locale=en" height="220" alt="streak graph"  />
 </div>
 
 ###
